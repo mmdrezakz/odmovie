@@ -13,10 +13,10 @@
 - قابلیت جستجو، دسته‌بندی و مشاهده جزئیات هر فیلم
   
 <img src="https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true" />
-<img src="[https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true](https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-20-59.jpg?raw=true)" />
-<img src="[https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true](https://github.com/mmdrezakz/odmovie/blob/main/Screenshot%202025-11-12%20112201.png?raw=true)" />
-<img src="[https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true](https://github.com/mmdrezakz/odmovie/blob/main/Screenshot%202025-11-12%20112211.png?raw=true)" />
-<img src="**https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true**" />
+<img src="https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true" />
+<img src="https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true" />
+<img src="https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true" />
+<img src="https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true" />
 
 
 ## نمونه‌هایی از رابط کاربری
