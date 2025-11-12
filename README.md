@@ -9,7 +9,7 @@
 - استفاده از **TailwindCSS** برای دیزاین مدرن و ریسپانسیو
 - قابلیت جستجو، دسته‌بندی و مشاهده جزئیات هر فیلم
   
-
+https://github.com/mmdrezakz/odmovie/blob/main/photo_2025-11-12_11-21-05.jpg?raw=true
 ### نمونه‌هایی از رابط کاربری
 
 برای مشاهده زنده سایت و تست، [اینجا کلیک کنید](https://odmovie.vercel.app/)
