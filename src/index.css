@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import "tailwindcss";
+body{
+    @apply bg-slate-800 text-slate-300 text-sm md:text-xl;
+    font-family: "Lalezar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 100%;
+    min-height: 100vh;
+    
+    
+
+}
+/* 🎨 پس‌زمینه‌ی تیره برای track در تم تیره */
+.scrollbar-dark::-webkit-scrollbar-track {
+  background-color: rgb(30 41 59); /* slate-800 */
+}
+
+/* 🩶 در حالت hover، کمی روشن‌تر */
+.scrollbar-dark:hover::-webkit-scrollbar-track {
+  background-color: rgb(51 65 85); /* slate-700 */
+}
+.bg-header{
+  
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    max-height: 90% ;
+     /* background: url("../img/background/bg-header2.jpg");  */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    
+   /* padding-bottom: 35rem; */
+    filter: brightness(10%)
+    
+    
+    
+}
+.swiper {
+  @apply p-20 md:p-5 md:w-full md:h-full;
+
+ 
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #444;
+
+  max-height: 300px;
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  
+}
+
