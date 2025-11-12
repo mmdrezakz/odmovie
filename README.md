@@ -1,16 +1,19 @@
-# React + Vite
+## معرفی سایت OD Movie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[OD Movie](https://odmovie.vercel.app/) یک سایت نمایش و جستجوی فیلم‌های محبوب است که با طراحی واکنش‌گرا (ریسپانسیو) ساخته شده و در انواع موبایل و دسکتاپ بهینه است.
 
-Currently, two official plugins are available:
+### تکنولوژی‌ها و ویژگی‌ها
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- توسعه با **ReactJS** و **React Router** برای ساخت تجربه تک‌صفحه‌ای و سریع
+- ارتباط با **API سایت TheMovieDB** جهت دریافت اطلاعات فیلم‌ها
+- استفاده از **TailwindCSS** برای دیزاین مدرن و ریسپانسیو
+- قابلیت جستجو، دسته‌بندی و مشاهده جزئیات هر فیلم
+  
 
-## React Compiler
+### نمونه‌هایی از رابط کاربری
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![صفحه اصلی و محبوب‌ها](images/Screenshot_2025-11-12-10-26-45-823_com.android.chrome.jpg)
+![فیلم‌های محبوب و فیلترها](images/Screenshot_2025-11-12-10-27-02-746_com.android.chrome.jpg)
+![لیست فیلم و سریال‌ها](images/Screenshot_2025-11-12-10-27-26-828_com.android.chrome.jpg)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+برای مشاهده زنده سایت و تست، [اینجا کلیک کنید](https://odmovie.vercel.app/)
