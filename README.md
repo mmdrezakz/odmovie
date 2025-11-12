@@ -12,8 +12,4 @@
 
 ### نمونه‌هایی از رابط کاربری
 
-![صفحه اصلی و محبوب‌ها](images/Screenshot_2025-11-12-10-26-45-823_com.android.chrome.jpg)
-![فیلم‌های محبوب و فیلترها](images/Screenshot_2025-11-12-10-27-02-746_com.android.chrome.jpg)
-![لیست فیلم و سریال‌ها](images/Screenshot_2025-11-12-10-27-26-828_com.android.chrome.jpg)
-
 برای مشاهده زنده سایت و تست، [اینجا کلیک کنید](https://odmovie.vercel.app/)
